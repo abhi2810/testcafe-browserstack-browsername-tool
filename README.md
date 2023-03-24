@@ -1,6 +1,6 @@
 # Testcafe Browserstack BrowserName Tool
 
-Tool to filter through BrowserStack browsernames for TestCafe
+Tool to filter through BrowserStack browser names for TestCafe
 
 Usage:
 
